@@ -1,8 +1,8 @@
 package Decorator;
 
-public class Colour extends Decorator {
+class Colour extends Decorator {
 
-  public Colour(Element element) {
+  Colour(Element element) {
     super(element);
   }
 

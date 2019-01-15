@@ -1,7 +1,6 @@
 package Decorator;
 
-public class Window implements Element {
-
+class Window implements Element {
 
   @Override
   public void draw() {

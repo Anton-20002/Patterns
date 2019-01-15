@@ -2,7 +2,7 @@ package Decorator;
 
 class Border extends Decorator{
 
-  public Border(Element element) {
+  Border(Element element) {
     super(element);
   }
 

@@ -1,5 +1,5 @@
 package Decorator;
 
-public interface Element {
+interface Element {
   void draw();
 }
